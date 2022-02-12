@@ -13,3 +13,9 @@ Swish is a video streaming service designed to be an alternative to YouTube's ad
 🕊 **[Athena](https://github.com/shetaye/athena)** *2018 - 2021*
 
 Athena is a proof-of-concept Discord bot that moderates servers through [direct democracy](https://en.wikipedia.org/wiki/Direct_democracy).  It was developed on and off from 2018 to 2021, and is the third iteration in the project (the other two being [DDD](https://github.com/shetaye/ddd-webserver) and Direkt).  Athena (then called DDD) was at first a chat-only service which moved to a web platform (like [mee6](https://mee6.xyz)).  It is written using Vue, Node.JS, SQL and Discord.JS.
+
+### Other things I've worked on
+
+🦾 **[FRC Robot](https://github.com/Team2470/FRC-2022-robot)** *2020 - 2022*
+
+I particpated in my Highschool's FRC robotics team.  I contributed to the 2020 robot as a software developer and the 2022 robot as control systems lead.  The robot is programmed in Java and was an exercise in repository management considering the number of active developers we had.
