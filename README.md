@@ -18,4 +18,4 @@ Athena is a proof-of-concept Discord bot that moderates servers through [direct 
 
 🦾 **[FRC Robot](https://github.com/Team2470/FRC-2022-robot)** *2020 - 2022*
 
-I particpated in my Highschool's FRC robotics team.  I contributed to the 2020 robot as a software developer and the 2022 robot as control systems lead.  The robot is programmed in Java and was an exercise in repository management considering the number of active developers we had.
+I particpated in my Highschool's [FRC](https://www.firstinspires.org/) robotics team, [Team BJORG](https://www.team2470.org/).  I contributed to the 2020 robot as a software developer and the 2022 robot as control systems lead.  All of our code is on [GitHub](https://github.com/Team2470).  The robot is programmed in Java and was an exercise in repository management considering the number of active developers we had.
